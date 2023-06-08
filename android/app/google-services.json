@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500762124002",
+    "project_id": "service-ccb5b",
+    "storage_bucket": "service-ccb5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500762124002:android:8b99ad26cefac49a3688bb",
+        "android_client_info": {
+          "package_name": "com.example.ranking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500762124002-fo3u79cv64erct3mjod5i3n5jid454so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXgItul_wCkf1qGfQEtT49sIzDceNVhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500762124002-fo3u79cv64erct3mjod5i3n5jid454so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
